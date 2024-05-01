@@ -1,8 +1,8 @@
-import Caa from "./image/day2"
+import Button from "./image/classs/one";
  
 function App() {
   return (
-    <Caa></Caa>
+    <Button></Button>
   );
 }
 
