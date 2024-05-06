@@ -27,7 +27,6 @@ let Edit=()=>{
     </ul>
   </div>
 </nav>
-
     )
 }
 export default Edit
