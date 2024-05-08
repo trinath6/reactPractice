@@ -3,7 +3,7 @@ import "./props.css"
 let Card=(props)=>{
     let {category,image,price,title}=props
     return(
-        <div class="full">
+        <div className="full">
          <div className="card" style={{ width: 400 }}>
            <img className="card-img-top" style={{height:200,width:200}} src={image} alt="Card image" />
            <div className="card-body">
