@@ -1,13 +1,9 @@
-import Products from "./props/main";
-
-
-
-
+import StateUsage from "./state/state";
 
 function App() {
 
     return(
-        <Products/>
+      <StateUsage></StateUsage>
     )
 
 }
