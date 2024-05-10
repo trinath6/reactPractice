@@ -1,11 +1,10 @@
-import StateUsage from "./state/state";
+
+import Todo from "./state/todos";
 
 function App() {
-
     return(
-      <StateUsage></StateUsage>
+      <Todo></Todo>
     )
-
 }
 
 export default App;
