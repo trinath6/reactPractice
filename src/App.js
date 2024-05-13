@@ -1,9 +1,8 @@
-
-import Todo from "./state/todos";
+import MountingUsage from "./state/mounting";
 
 function App() {
     return(
-      <Todo></Todo>
+      <MountingUsage></MountingUsage>
     )
 }
 
