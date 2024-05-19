@@ -1,8 +1,11 @@
-import Headder from "./routing/headder";
+
+import React from "react";
+import Coins from "./hooks/usestate";
+import Result from "./hooks/usestate";
 
 function App() {
     return(
-      <Headder></Headder>
+      <Result></Result>
     )
 }
 
