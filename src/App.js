@@ -1,12 +1,14 @@
 
 import React from "react";
-import Coins from "./hooks/usestate";
-import Result from "./hooks/usestate";
+
+import ControlledForm from "./loginform/controledform";
+
+
 
 function App() {
     return(
-      <Result></Result>
+     <ControlledForm></ControlledForm>
     )
 }
 
-export default App;
+export default App; 
