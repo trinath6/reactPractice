@@ -1,13 +1,16 @@
 
 import React from "react";
+import UseEffect1 from "./useeffect/useeffect";
+import LoginForm from "./loginform/loginForm";
 
-import ControlledForm from "./loginform/controledform";
+
+
 
 
 
 function App() {
     return(
-     <ControlledForm></ControlledForm>
+     <LoginForm></LoginForm>
     )
 }
 

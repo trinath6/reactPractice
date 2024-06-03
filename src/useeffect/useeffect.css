@@ -1,0 +1,13 @@
+.cards{
+  /* display:inline-block; */
+  display: flex;
+  flex-wrap: wrap;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  padding: 20px;
+
+}
+
+img{
+    height: 300px;
+    width: 300px;
+}
